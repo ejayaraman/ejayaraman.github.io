@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Some Interesting Ideas from 'Fifty Quick Ideas To Improve Your Tests'"
 date:   2022-02-19 19:01:31 +0000
 categories: testing
