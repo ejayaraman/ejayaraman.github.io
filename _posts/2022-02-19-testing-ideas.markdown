@@ -2,6 +2,7 @@
 layout: post
 title:  "Some Interesting Ideas from 'Fifty Quick Ideas To Improve Your Tests'"
 date:   2022-02-19 19:01:31 +0000
+author: Eswarprasath Jayaraman
 categories: testing
 ---
 Running out of test ideas is one of my biggest fears when testing a system. While techniques like Boundary Value Analysis and Equivalence Partitioning can be a good starting point, they are not enough. Teams require more than these fundamental techniques to ensure that applications meet their specification. In their book, [*Fifty Quick Ideas To Improve Your Tests*](https://fiftyquickideas.com/fifty-quick-ideas-to-improve-your-tests/), authors Gojko Adzic, David Evans, and Tom Roden have dedicated a section for Generating Test Ideas. While all the ideas under this section are valuable, I found the ones below more interesting than the others.
