@@ -1,18 +1,33 @@
 ---
-layout: page
-title: About
+layout: default
 permalink: /about/
 ---
+### About Me
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Eswarprasath Jayaraman, a Software Engineer enabling clients to build
+quality into their software applications.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Work Experience
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am currently a consultant for [Equal Experts](https://www.equalexperts.com/).
+I have also worked in Test Engineering for [Sky](https://www.sky.com/),
+[Gamesys](https://www.gamesysgroup.com/), [Research In Motion](https://www.blackberry.com/us/en),
+and [CSC](https://dxc.com/us/en). You can read more about my work in my
+[LinkedIn profile](https://uk.linkedin.com/in/ejayaraman).
 
+### Latest Posts
 
-[jekyll-organization]: https://github.com/jekyll
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+### Online Events
+
+In a fishbowl conversation as part of the [Expert Talks](https://www.equalexperts.com/expert-talks/) -
+*A Whole Team Approach to Quality in Continuous Delivery with Lisa Crispin.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xxz-50__JVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
