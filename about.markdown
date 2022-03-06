@@ -4,16 +4,16 @@ permalink: /about/
 ---
 ### About Me
 
-I am Eswarprasath Jayaraman, a test focussed Software Engineer helping clients to
-build and deliver quality software applications.
+I am Eswarprasath Jayaraman, a Software Engineer enabling clients to build
+quality into their software applications.
 
 ### Work Experience
 
-At present, I am consulting for [Equal Experts](https://www.equalexperts.com/).
-In the past, I have worked in Test Engineering roles at [Sky](https://www.sky.com/),
+I am currently a consultant for [Equal Experts](https://www.equalexperts.com/).
+I have also worked in Test Engineering for [Sky](https://www.sky.com/),
 [Gamesys](https://www.gamesysgroup.com/), [Research In Motion](https://www.blackberry.com/us/en),
-and [CSC](https://dxc.com/us/en). More information about my work experience can be found in
-[LinkedIn](https://uk.linkedin.com/in/ejayaraman).
+and [CSC](https://dxc.com/us/en). You can read more about my work in my
+[LinkedIn profile](https://uk.linkedin.com/in/ejayaraman).
 
 ### Latest Posts
 
